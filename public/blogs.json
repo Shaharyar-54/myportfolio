@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Development conferences in 2024",
+    "category": "Design",
+    "date": "Feb 23, 2024",
+    "image": "/images/blog-1.jpg",
+    "description": " Hosted by the American Institute of Graphic Arts (AIGA)."
+  },
+  {
+    "title": "Best fonts every developer",
+    "category": "Design",
+    "date": "Feb 23, 2024",
+    "image": "/images/blog-2.jpg",
+    "description": "Monospaced font developed as part of the Ubuntu operating system. It features a simple and straightforward design, ."
+  },
+  {
+    "title": "Design digest",
+    "category": "Design",
+    "date": "Feb 23, 2024",
+    "image": "/images/blog-3.jpg",
+    "description": "it easy to read even at small sizes. Inconsolata is popular among developers."
+  },
+  {
+    "title": "UI interactions of the week",
+    "category": "Design",
+    "date": "Feb 23, 2024",
+    "image": "/images/blog-4.jpg",
+    "description": "It features a clean and modern design, with distinguishable characters and excellent legibility at various font sizes ."
+  },
+  {
+    "title": "The forgotten art of spacing",
+    "category": "Design",
+    "date": "Feb 23, 2024",
+    "image": "/images/blog-5.jpg",
+    "description": "It's based on Mozilla's Fira Mono font and has gained popularity among developers for its unique features.."
+  },
+  {
+    "title": "Design digest #79",
+    "category": "Design",
+    "date": "Feb 23, 2024",
+    "image": "/images/blog-6.jpg",
+    "description": "clean and modern design, with distinguishable characters and excellent legibility at various font sizes."
+  }
+]
